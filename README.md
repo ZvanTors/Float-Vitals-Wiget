@@ -1,7 +1,6 @@
 # 🪟 FloatVitals – Windows Floating System Monitor
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 **A sleek, semi-transparent, always-on-top widget that shows your PC’s vital signs in real time.**
 
